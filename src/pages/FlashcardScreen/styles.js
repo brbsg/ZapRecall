@@ -17,9 +17,3 @@ export const Text = styled.h1`
   font-size: ${(props) => props.fontSize};
   margin-bottom: 16px;
 `;
-
-export const ImgLogo = styled.img`
-  position: absolute;
-  top: 45px;
-  left: 88px;
-`;

@@ -13,7 +13,7 @@ export const Container = styled.div`
   justify-content: space-around;
 `;
 
-export const Footer = styled.footer`
+export const Button = styled.button`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,6 +23,7 @@ export const Footer = styled.footer`
   border: 3px solid #ffef61;
   box-sizing: border-box;
   border-radius: 12px;
+  background-color: white;
 
   font-family: Roboto;
   font-style: normal;
